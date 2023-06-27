@@ -1,0 +1,28 @@
+{
+    "id": "82CA5B12",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1687294911579.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "2eb767b93e6a49b795f088e014041679",
+        "name": "final_watchlist",
+        "title": "final_watchlist",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3548067076488918113,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1687294911579,
+    "read_only": false,
+    "read_only_alternatives": []
+}
